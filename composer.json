@@ -1,0 +1,16 @@
+{
+    "name": "winzmcman/befree",
+    "description": "php framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikita Pavlov",
+            "email": "nikithobbieng@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
